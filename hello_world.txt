@@ -1,0 +1,1 @@
+This is the "Hello World" file, used for testing Git and GitHub.
